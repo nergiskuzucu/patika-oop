@@ -1,3 +1,3 @@
 # Uçuş Yönetim Sistemi
 
-![image](odev3.png)
+![image](gorseller/odev3.png)
