@@ -1,6 +1,6 @@
 # Üniversite Yönetim Sistemi
 
-![image](odev1.png)
+![image](gorseller/odev1.png)
 
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
