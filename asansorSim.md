@@ -1,3 +1,3 @@
 # Asansör Simülasyonu
 
-![image](odev5.png)
+![image](gorseller/odev5.png)
