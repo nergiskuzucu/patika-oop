@@ -1,3 +1,3 @@
 # Üniversite Yönetim Sistemi
 
-![image](odev1.drawio.png)
+![image](odev1.png)
