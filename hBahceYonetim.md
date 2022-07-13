@@ -1,6 +1,6 @@
 # Hayvanat Bahçesi Yönetimi
 
-![image](odev2.png)
+![image](gorseller/odev2.png)
 
 Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
 
