@@ -1,3 +1,3 @@
 # Online Film Sistemi
 
-![image](odev4.png)
+![image](gorseller/odev4.png)
